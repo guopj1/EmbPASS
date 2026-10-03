@@ -51,9 +51,11 @@ It establishes a unified benchmark spanning **Vehicle, Drone, Wearable, and Quad
 
 ## 🎬 Demo
 
-Panoramic observations from diverse embodied platforms and the corresponding segmentation results.
-
 https://github.com/user-attachments/assets/708122cf-aa37-433e-a688-41ad9ef74df0
+
+<p align="center">
+  <em>Panoramic observations from diverse embodied platforms and the corresponding segmentation results.</em>
+</p>
 
 ---
 
