@@ -20,6 +20,7 @@
 
 <p align="center">
   <a href="#overview"><b>🔭 Overview</b></a> &nbsp; · &nbsp;
+  <a href="#demo"><b>🎬 Demo</b></a> &nbsp; · &nbsp;
   <a href="#benchmark"><b>🗂️ Benchmark</b></a> &nbsp; · &nbsp;
   <a href="#release-status"><b>🚀 Release Status</b></a>
 </p>
@@ -33,6 +34,26 @@
 **EmbPASS** introduces **Cross-Embodiment Open Panoramic Segmentation** for open-vocabulary panoramic perception across heterogeneous embodied platforms.
 
 It establishes a unified benchmark spanning **Vehicle, Drone, Wearable, and Quadruped**, and proposes **EPONet** for panoramic perception under heterogeneous embodied observations.
+
+<p align="center">
+  <img src="assets/teaser.png" alt="Overview of EmbPASS" width="100%">
+</p>
+
+<p align="center">
+  <em>
+    Overview of EmbPASS and cross-embodiment open panoramic segmentation.
+  </em>
+</p>
+
+---
+
+<a id="demo"></a>
+
+## 🎬 Demo
+
+Panoramic observations from diverse embodied platforms and the corresponding segmentation results.
+
+https://github.com/user-attachments/assets/15b097a6-1eb0-4e58-bd63-58f010c5fa06
 
 ---
 
